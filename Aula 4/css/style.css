@@ -1,0 +1,20 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(50, 48, 44);
+    background: linear-gradient(58deg, rgba(2, 0, 36, 1) 0%, rgba(255, 255, 255, 1) 38%, rgba(216, 248, 255, 1) 57%, rgba(0, 212, 255, 1) 100%);
+    background-image: url(https://img.freepik.com/vetores-premium/linha-circuito-abstrato-tecnologia-eletricidade-fundo_48644-60.jpg)
+}
+header {
+    border: ;
+    margin:0px ;
+    padding: 0px;
+}
+header footer section article{
+    padding: 30px;
+    margin: 10px;
+}
+header{
+    background-color: rgb(212, 208, 208);
+}
+#nome_do_id
+.nome_do_id
